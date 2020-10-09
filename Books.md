@@ -8,11 +8,16 @@ A list of recommended reading and resources is provided below.
   - [A Vision So Noble: John Boyd, the OODA Loop, and America's War on Terror](https://www.amazon.co.jp/gp/product/1451589816/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 - DevSecOps 
   - [Epic Failures in DevSecOps: Volume 1](https://www.amazon.co.jp/gp/product/1728806992/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
+  - [Hands-On Security in DevOps: Ensure continuous security, deployment, and delivery with DevSecOps](https://www.amazon.co.jp/gp/product/1788995503/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+- Blue Team / Red Team
+  - [Blue Team Field Manual (BTFM) (RTFM)](https://www.amazon.co.jp/gp/product/154101636X/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+  - [Rtfm: Red Team Field Manual](https://www.amazon.co.jp/gp/product/1494295504/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
 - Security Awareness & Social engineering
   - [Transformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors](https://www.amazon.co.jp/gp/product/1119566347/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
   - [The Art of Invisibility](https://www.amazon.co.jp/gp/product/0316526924/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) 
   - [Ghost in the Wires: My Adventures as the World's Most Wanted Hacker](https://www.amazon.co.jp/gp/product/0316212180/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
   - [Social Engineering: The Science of Human Hacking](https://www.amazon.co.jp/gp/product/111943338X/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+  - [You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches](https://www.amazon.co.jp/gp/product/0262038854/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - Data mining
   - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.co.jp/gp/product/0141985410/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
 - Audit
