@@ -1,4 +1,5 @@
 # Certifications
+Share resources used to prepare certifications
 # Resources
 - CompTIA
   - A+
