@@ -12,6 +12,8 @@ A list of recommended reading and resources is provided below.
 - Blue Team / Red Team
   - [Blue Team Field Manual (BTFM) (RTFM)](https://www.amazon.co.jp/gp/product/154101636X/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
   - [Rtfm: Red Team Field Manual](https://www.amazon.co.jp/gp/product/1494295504/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1)
+  - [Operator Handbook: Red Team + OSINT + Blue Team Reference](https://www.amazon.co.jp/gp/product/B085RR67H5/ref=ppx_yo_dt_b_asin_title_o02_s00?ie=UTF8&psc=1)
+  - [Red Team Development and Operations: A practical guide](https://www.amazon.co.jp/gp/product/B083XVG633/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
 - Security Awareness & Social engineering
   - [Transformational Security Awareness: What Neuroscientists, Storytellers, and Marketers Can Teach Us About Driving Secure Behaviors](https://www.amazon.co.jp/gp/product/1119566347/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
   - [The Art of Invisibility](https://www.amazon.co.jp/gp/product/0316526924/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1) 
