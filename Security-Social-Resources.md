@@ -32,5 +32,8 @@ A list of resources (SNS / Websites) to gather infromation related to Security
 |@m49D4ch3lly|@LisaForteUK|@privsecguy|@sarapeters|
 |@kubernetesio|@AWSreInvent|@Docker|@awscloud|
 |@ServerlessOpsIO|@tmclaughbos|@keavy|@gabsmashh|
+|@RachelTobac|@SocEngineerInc|@DerbyCon|@AsuNa_jp|
+|@owasp|@BlackHatEvents|@TenableSecurity|@kg4gwa|
+|@PerryCarpenter|@kevinmitnick|||
 
 
