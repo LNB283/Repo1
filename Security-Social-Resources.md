@@ -19,3 +19,18 @@ A list of resources (SNS / Websites) to gather infromation related to Security
 |https://thecyberwire.com/podcasts/daily-podcast|https://www.brighttalk.com/|
 
 
+##### Twitter
+|||||
+|---------------|---------------|---------------|---------------|
+|@MBThreatIntel|@goinggodotnet|@github|@GHSecurityLab|
+|@bitfield|@malwaaare|@KamSalisbury|@chrispcritters|
+|@0xBanana|@akolsuoicauqol|@cybersecstu|@IanColdwater|
+|@UK_Daniel_Card|@shehackspurple|@3mm4h3ff|@McGrewSecurity|
+|@Todd_McLeod|@TheAutom8er|@mikko|@LitMoose|
+|@d0rkph0enix|@alissaknight|@MiladMSFT|@joevest|
+|@MITREattack|@k_sec|@skprufo|@intigriti|
+|@m49D4ch3lly|@LisaForteUK|@privsecguy|@sarapeters|
+|@kubernetesio|@AWSreInvent|@Docker|@awscloud|
+|@ServerlessOpsIO|@tmclaughbos|@keavy|@gabsmashh|
+
+
