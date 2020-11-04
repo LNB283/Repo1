@@ -1,4 +1,4 @@
-# Security-Social-Resources
+# Security/Social/Resources
 A list of resources (SNS / Websites / Twitter accounts) to gather infromation related to Security
 --------
 ##### Websites
