@@ -1,4 +1,4 @@
-# Security/Social/Resources
+# Cybersecurity SNS resources
 A list of resources (SNS / Websites / Twitter accounts) to gather infromation related to Security
 --------
 ##### Websites
