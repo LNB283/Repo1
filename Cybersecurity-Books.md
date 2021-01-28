@@ -1,6 +1,8 @@
 # Cybersecurity Books
 A list of recommended reading & resources
 --------
+- Fundamental
+  - [Bring Your Own Cyber: A smaller Business Owner's Guide to Basic Network Security](https://www.amazon.com/Bring-Your-Own-Cyber-Business/dp/0997744189)
 - Decision Making & Problem Solving
   - [Essentialism: The Disciplined Pursuit of Less](https://www.amazon.co.jp/-/en/Greg-Mckeown-ebook/dp/B00G1J1D28/ref=sr_1_1?dchild=1&keywords=Essentialism&qid=1602254807&s=english-books&sr=1-1)
 - Military Strategy
