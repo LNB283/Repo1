@@ -21,3 +21,5 @@ Share resources used to prepare certifications
     - [Udemy - Stephane Maarek](https://www.udemy.com/share/103a09AEMedFxQQHkH/)
   - Architect Associate
     - [Udemy - Stephane Maarek](https://www.udemy.com/share/102CPBAEMedFxQQHkH/)
+- CISSP
+    - [Udemy - Thor Pedersen](https://www.udemy.com/user/thorpedersen/)
