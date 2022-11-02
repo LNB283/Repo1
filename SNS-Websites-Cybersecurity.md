@@ -11,7 +11,6 @@ A list of resources (SNS / Websites / Twitter accounts) to gather infromation re
 |https://nakedsecurity.sophos.com/|https://dfw.cbslocal.com/tag/data-breach/|
 |https://securityaffairs.co/wordpress/|https://www.itsecurityguru.org/|
 
-
 ##### Podcast
 |||
 | --------------- | --------------- | 
