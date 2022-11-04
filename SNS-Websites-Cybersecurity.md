@@ -68,18 +68,18 @@ A list of resources (SNS / Websites / Blogs / Twitter accounts) to gather infrom
 |Godaddy|https://godaddy.github.io/engineering/|
 |Google Security|https://security.googleblog.com/|
 |Google AI|https://ai.googleblog.com/|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Grab|https://engineering.grab.com/|
+|Grafana Labs|https://grafana.com/blog/|
+|Groupon Engineering|https://medium.com/groupon-eng|
+|Gusto|https://engineering.gusto.com/|
+|HashiCorp|https://www.hashicorp.com/blog|
+|Hashnode|https://engineering.hashnode.com/|
+|Helpshift|https://medium.com/helpshift-engineering|
+|Honeybadger|https://www.honeybadger.io/blog/|
+|Hootsuite|https://medium.com/hootsuite-engineering|
+|Dev IBMs|https://developer.ibm.com/blogs/|
+|Indeed|https://engineering.indeedblog.com/blog/|
+|Kinvolk|https://kinvolk.io/blog/|
 |||
 |||
 |||
