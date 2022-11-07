@@ -53,6 +53,7 @@ A list of resources (SNS / Websites / Blogs / Twitter accounts) to gather infrom
 |Doordash|https://doordash.engineering/blog/|
 |Getaround|https://getaround.tech/index.html|
 |Dropbox|https://dropbox.tech/|
+|Doyensec|https://blog.doyensec.com/|
 |Ebay|https://tech.ebayinc.com/|
 |Elastic|https://www.elastic.co/blog/|
 |Erlang|https://www.erlang-solutions.com/blog/|
