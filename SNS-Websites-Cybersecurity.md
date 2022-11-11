@@ -81,18 +81,18 @@ A list of resources (SNS / Websites / Blogs / Twitter accounts) to gather infrom
 |Dev IBMs|https://developer.ibm.com/blogs/|
 |Indeed|https://engineering.indeedblog.com/blog/|
 |Kinvolk|https://kinvolk.io/blog/|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|LinkedIn|https://engineering.linkedin.com/blog|
+|Lyft|https://eng.lyft.com/|
+|Mallow Tech|https://blog.mallow-tech.com/|
+|D2iq|https://d2iq.com/blog|
+|Microsoft blog Python|https://devblogs.microsoft.com/python/|
+|Mozilla|https://hacks.mozilla.org/|
+|Netflix blog|https://netflixtechblog.com/|
+|Nordic APIs|https://nordicapis.com/blog/|
+|Medium|https://medium.com/better-practices|
+|VMWare|https://tanzu.vmware.com/content/pivotal-engineering-journal|
+|Prezi|https://engineering.prezi.com/|
+|OKTA|https://developer.okta.com/blog/|
 |||
 |||
 |||
