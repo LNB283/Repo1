@@ -59,6 +59,7 @@ A list of resources (SNS / Websites / Blogs / Twitter accounts) to gather infrom
 |Erlang|https://www.erlang-solutions.com/blog/|
 |EvilMartians|https://evilmartians.com/chronicles|
 |Expedia|https://medium.com/expedia-group-tech|
+|Mercari|https://engineering.mercari.com/en/|
 |Meta|https://engineering.fb.com/|
 |Meta AI|https://engineering.fb.com/category/ai-research/|
 |Feedzai|https://medium.com/feedzaitech|
@@ -93,21 +94,21 @@ A list of resources (SNS / Websites / Blogs / Twitter accounts) to gather infrom
 |VMWare|https://tanzu.vmware.com/content/pivotal-engineering-journal|
 |Prezi|https://engineering.prezi.com/|
 |OKTA|https://developer.okta.com/blog/|
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
-|||
+|Paypal|https://medium.com/paypal-tech|
+|Reddit|https://www.reddit.com/r/RedditEng/|
+|Redhat|https://developers.redhat.com/blog|
+|Riot Games|https://technology.riotgames.com/|
+|RoseHosting|https://www.rosehosting.com/blog/|
+|SalesForce|https://developer.salesforce.com/developer-centers/security|
+|Segment Twilio|https://segment.com/blog/engineering/|
+|Semaphore|https://semaphoreci.com/blog|
+|Shopify|https://shopify.engineering/|
+|Sitepoint|https://www.sitepoint.com/|
+|Skyscanner|https://medium.com/@SkyscannerEng|
+|Slack|https://slack.engineering/|
+|Spotify|https://engineering.atspotify.com/|
+|Suqreup|https://developer.squareup.com/blog/|
+|Swiggy|https://bytes.swiggy.com/|
 |||
 |||
 |||
