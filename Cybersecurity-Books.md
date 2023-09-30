@@ -24,6 +24,8 @@ A list of recommended reading & resources
   - [You'll See This Message When It Is Too Late: The Legal and Economic Aftermath of Cybersecurity Breaches](https://www.amazon.co.jp/gp/product/0262038854/ref=ppx_yo_dt_b_asin_title_o09_s00?ie=UTF8&psc=1)
 - Data mining
   - [Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy](https://www.amazon.co.jp/gp/product/0141985410/ref=ppx_yo_dt_b_asin_title_o08_s00?ie=UTF8&psc=1)
+- AI
+  - [Superintelligence: Paths, Dangers, Strategies](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443)
 - Audit
   - SOX
     - [Sarbanes-Oxley For Dummies ](https://www.amazon.co.jp/gp/product/0470223138/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
@@ -31,6 +33,11 @@ A list of recommended reading & resources
 - API
   - Hacking
     - [Hacking APIs: Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443)
+- CyberSecurity Story & Others
+  - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.amazon.co.jp/gp/product/0770436196/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+  - [This Is How They Tell Me the World Ends: A True Story](https://www.amazon.co.jp/gp/product/1526652536/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
+  - [The Art of War](https://www.amazon.co.jp/gp/product/1547251069/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+
   
 
   
