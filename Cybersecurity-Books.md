@@ -28,6 +28,9 @@ A list of recommended reading & resources
   - SOX
     - [Sarbanes-Oxley For Dummies ](https://www.amazon.co.jp/gp/product/0470223138/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
     - [A Practical Introduction to Sarbanes-Oxley Compliance](https://www.amazon.co.jp/gp/product/1543249493/ref=ppx_yo_dt_b_asin_title_o01_s00?ie=UTF8&psc=1)
+- API
+  - Hacking
+    - [Hacking APIs: Breaking Web Application Programming Interfaces](https://www.amazon.com/Hacking-APIs-Application-Programming-Interfaces/dp/1718502443)
   
 
   
