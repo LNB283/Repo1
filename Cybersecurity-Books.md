@@ -37,6 +37,8 @@ A list of recommended reading & resources
   - [Countdown to Zero Day: Stuxnet and the Launch of the World's First Digital Weapon](https://www.amazon.co.jp/gp/product/0770436196/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
   - [This Is How They Tell Me the World Ends: A True Story](https://www.amazon.co.jp/gp/product/1526652536/ref=ppx_yo_dt_b_asin_title_o00_s00?ie=UTF8&psc=1)
   - [The Art of War](https://www.amazon.co.jp/gp/product/1547251069/ref=ppx_yo_dt_b_asin_title_o05_s00?ie=UTF8&psc=1)
+  - [Ghost fleet](https://www.amazon.co.jp/-/en/P-W-Singer/dp/0544142845/ref=sr_1_1?crid=17WHMJ8QMXG0K&keywords=Ghost+Fleet%3A+A+Novel+of+the+Next+World+War&qid=1701172809&s=english-books&sprefix=%2Cenglish-books%2C160&sr=1-1)
+  
 
   
 
